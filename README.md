@@ -10,7 +10,11 @@ This course introduces basic principles of population health relating to natural
 Upon completing the course, students will have learned about population health, as well as the roles that individuals and organizations (profit and non-profit) play in the protection and promotion of positive health outcomes. Students will learn how health outcomes are assessed and examine health issues from a population health perspective. In addition, students will examine how entities such as healthcare deliviery systems, public health agencies, and community-based organizations work in tandem to develop interventions for improving health outcomes across all communities. As a data science learning outcome, students will be able to use statistical software to analyze community health or epidemiological data. Furthermore, students will be able to develop a dataset, manage surveillance databases, and perform statistical analyses. Students will learn basic skills in statistical application for population health data such as how to develop a questionnaire or form, customize the data entry process, and enter and analyze data. Also, they will learn how to assess community health outcomes and identify key sources of data for epidemiologic purposes.
 
 # Data Science Infusion
-The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The module consists of the following:
+The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules consists of the following:
+<ul>
+  <li>Module 1: Means and Frequencies</li>
+  <li>Module 2: Crosstabs</li>
+</ul>
 
 # Navigating the Repository
 <table>
